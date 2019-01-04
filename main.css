@@ -1,1 +1,9 @@
-header article nav {display: block;}
+header article nav 
+{
+display: block;
+}
+
+.small
+{
+  font-size: 24px;
+}
