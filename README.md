@@ -1,3 +1,6 @@
+Designing a website using github and CSS. Branching will be created to experiment and then merged when confirmed working
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mjameson0254/madaja-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
