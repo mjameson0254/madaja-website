@@ -25,7 +25,7 @@ small
 }
 
 #skip li{
-  list-style-type: none
+  	list-style-type: none
 }
 
 #skip a{
@@ -41,12 +41,12 @@ small
 	width: 75%;
 	height: auto;
 	margin: 0 auto;
-	padding: 30px 45px;
+	padding: 10px 10px;
 	text-align: center;
 	text-decoration: none;
-	letter-spacing: -4px !important;
-	font: bold 21pt "Tahoma", "Freesans", sans-serif !important;
+	letter-spacing: 2px !important;
+	font: 21pt "Tahoma", "Freesans", sans-serif !important;
 	/* color information, edit this to suit the colors of your layout */
         color: #000000;
-	background: transparent url(transparent.png) repeat scroll 0 0;
+	background:repeat scroll 0 0;
 	border: 1px dotted #FFFFFF;
