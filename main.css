@@ -5,7 +5,7 @@ display: block;
 
 small
 {
-  font-size: xx-large;
+  font-size: medium;
 }
 .accessibility{
 	position: absolute;
@@ -45,8 +45,8 @@ small
 	text-align: center;
 	text-decoration: none;
 	letter-spacing: -4px !important;
-	font: bold 50px "Tahoma", "Freesans", sans-serif !important;
+	font: bold 21pt "Tahoma", "Freesans", sans-serif !important;
 	/* color information, edit this to suit the colors of your layout */
-        color: #FFFFFF;
+        color: #000000;
 	background: transparent url(transparent.png) repeat scroll 0 0;
-	border: 1px dotted #ffb4db;
+	border: 1px dotted #FFFFFF;
